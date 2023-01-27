@@ -1,16 +1,4 @@
 # Laravel
-* [建立專案](#建立專案)
-* [檔案結構](#檔案結構)
-* [路由](#路由)
-  * [Parameter](#Parameter)
-  * [Body](#Body)
-* [Request](#Request)
-* [Controller](#Controller)
-* [Database](#Database)
-
-
----
-
 ## 建立專案
 
 ```bash
